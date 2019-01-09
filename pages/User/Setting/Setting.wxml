@@ -6,7 +6,7 @@
 <view class="card">
   <view class="pic"></view>
   <view class="title">
-    <text selectable='true'>一站式体育赛事运营商
+    <text  selectable='true'>一站式体育赛事运营商
           让高校举办体育赛事更轻松
           “赛事窗”小程序是MatchWin.cn官方小程序版本，开发者为Alxd。
     </text>
